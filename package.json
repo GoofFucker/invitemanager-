@@ -1,0 +1,13 @@
+{
+  "name": "invitemanager-",
+  "version": "1.0.0",
+  "main": "index.jx",
+  "scripts": {
+    "test": "echo\"Error" && exit"
+  },
+  "author"
+  "license"
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
